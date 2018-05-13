@@ -33,3 +33,13 @@
 .slide p {
   margin-left: 0;
 }
+
+.slide figure.cover.width.margin > :first-child {
+  width: 88%
+}
+.slide h2 + figure.cover.margin > :first-child {
+  margin-top: 2em;
+}
+.slide h2 + figure.cover.height.margin > :first-child {
+  height: 66%;
+}
