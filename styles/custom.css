@@ -21,13 +21,6 @@
   font-style: italic;
 }
 
-#purpose {
-  padding-top: 180px;
-}
-#purpose h2 {
-  text-align: center;
-}
-
 .slide h3 {
   margin-bottom: 0;
 }
@@ -44,4 +37,14 @@
 }
 .slide h2 + figure.cover.height.margin > :first-child {
   height: 66%;
+}
+
+#purpose {
+  padding-top: 180px;
+}
+#identity-role {
+  padding-top: 270px;
+}
+#purpose h2, #identity-role h2 {
+  text-align: center;
 }
