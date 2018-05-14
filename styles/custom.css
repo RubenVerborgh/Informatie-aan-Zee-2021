@@ -21,9 +21,11 @@
   font-style: italic;
 }
 
-.slide h2.shout {
-  font-size: 2em;
-  line-height: 1.15;
+#purpose {
+  padding-top: 180px;
+}
+#purpose h2 {
+  text-align: center;
 }
 
 .slide h3 {
