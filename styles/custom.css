@@ -9,6 +9,9 @@
   font-style: italic;
   margin-bottom: 1em;
 }
+.shower .caption p.video {
+  font-weight: bold;
+}
 
 .title.slide h2 {
   font-size: 1.7em;
