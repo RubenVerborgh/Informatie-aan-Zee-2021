@@ -1,29 +1,3 @@
-.shower .caption h2 {
-  font-size: .72em;
-  line-height: 1.3;
-}
-.shower .caption p {
-  margin-top: .5em;
-}
-.shower .caption p.venue {
-  font-style: italic;
-  margin-bottom: 1em;
-}
-.shower .caption p.video {
-  font-weight: bold;
-}
-
-.title.slide h2 {
-  font-size: 1.7em;
-  margin-bottom: -.3em;
-}
-.title.slide h3 {
-  font-size: 1.3em;
-  font-weight: normal;
-  margin-bottom: 2em;
-  font-style: italic;
-}
-
 .slide h3 {
   margin-bottom: 0;
 }
