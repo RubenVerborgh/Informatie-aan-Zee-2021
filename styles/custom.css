@@ -16,6 +16,11 @@
   height: 66%;
 }
 
+.faded {
+  opacity: .2;
+  filter: contrast(1.1);
+}
+
 #purpose {
   padding-top: 180px;
 }
