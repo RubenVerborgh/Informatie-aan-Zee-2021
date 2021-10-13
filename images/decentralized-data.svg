@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="400">
+<symbol id="Avatar_1_" viewBox="-16 -16 31.99 31.99">
+	<circle fill="#D8D5E2" cx="0" cy="0" r="16"/>
+	<path fill="#8B80A9" d="M9.63,0.98c0,5.31-4.3,9.62-9.62,9.62S-9.6,6.29-9.6,0.98c0-3.54,1.62-6.12,4.47-7.79L-9-13.22
+		C-6.44-14.97-3.34-16,0-16c3.53,0,6.78,1.16,9.43,3.09L5.29-7.05C7.91-5.34,9.63-2.38,9.63,0.98z"/>
+</symbol>
+<symbol id="Like" viewBox="-8.25 -8.62 16.5 17.25">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#3D2C70" d="M6.74,0c1.3,0.19,1.58,0.75,1.5,1.34C7.14,3.76,4.5,2.2,2.48,2.7
+		C2.33,3.06,2.51,3.45,2.57,3.8c0.28,1.82-0.11,4.46-2.28,4.82C0.13,8.58-0.05,8.61-0.2,8.52c-0.17-0.12-0.34-0.28-0.4-0.49
+		c-0.03-0.71,0-1.43-0.01-2.14c-0.58-1.85-1.34-4.02-3.13-5c-0.05-0.01-0.1-0.01-0.15-0.02c-0.02,0.05-0.05,0.09-0.08,0.15
+		c-0.08,0.62-0.19,1.42-0.95,1.58c-1.74-0.01-0.73,0.03-2.47-0.02C-7.54,2.51-7.7,2.42-7.86,2.33c-0.57-0.85-0.35-1.89-0.35-3.1
+		c0-2.29-0.05-5.21,0.06-7.1c0.11-0.35,0.41-0.62,0.76-0.71c1.68-0.09,0.6-0.02,2.29-0.04c0.39,0.02,0.7,0.26,0.92,0.57
+		c0.12,0.25,0.13,0.54,0.26,0.79c0.02,0.04,0.05,0.08,0.06,0.1C-3.8-7.17-3.75-7.18-3.7-7.19c0.08-0.02,0.13-0.03,0.17-0.04
+		c0.35-0.19,0.7-0.42,1.09-0.51C0.27-7.8,2.62-7.95,5.72-7.63c0.93,0.27,2.66,1.42,0.33,2.26c1.76,0.23,2.62,1.8,0.61,2.42
+		C8.43-2.42,8.67-0.58,6.74,0z"/>
+</symbol>
+<g id="Post">
+	<rect y="300" fill="#E8E6EE" width="320" height="100"/>
+	<rect x="80.65" y="21.52" fill="#C45814" width="40.51" height="14.12"/>
+	<rect x="23.38" y="73.32" fill="#3D2C70" width="273.18" height="5.34"/>
+	<rect x="30.87" y="238.67" fill="#3D2C70" width="258.97" height="13.55"/>
+	<rect x="23.38" y="91.15" fill="#3D2C70" width="273.18" height="5.34"/>
+	<rect x="23.38" y="108.97" fill="#3D2C70" width="273.18" height="5.34"/>
+	<rect x="23.38" y="126.8" fill="#3D2C70" width="273.18" height="5.34"/>
+	<rect x="80.65" y="44.96" fill="#F3DED0" width="119.06" height="14.12"/>
+	<rect x="23.74" y="145.14" fill="#EFEEF3" width="272.83" height="87.41"/>
+	<rect x="129.02" y="21.52" fill="#C45814" width="70.7" height="14.12"/>
+	<rect x="58.12" y="313.88" fill="#3D2C70" width="17.38" height="7.06"/>
+	<rect x="79.43" y="313.88" fill="#3D2C70" width="38.23" height="7.06"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(1.4388 0 0 -1.4388 35.249 278.9639)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(1.4388 0 0 -1.4388 63.3066 278.9639)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(0.7475 0 0 -0.7475 64.8398 347.3027)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(0.7475 0 0 -0.7475 79.415 347.3027)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(1.4388 0 0 -1.4388 90.4756 278.9639)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(1.4388 0 0 -1.4388 118.5879 278.9639)" overflow="visible"/>
+		<use xlink:href="#Like" width="16.5" height="17.25" x="-8.25" y="-8.62" transform="matrix(1.4388 0 0 -1.4388 146.7354 278.9639)" overflow="visible"/>
+	<g id="Avatar">
+		<circle fill="#EDCDB8" cx="44.96" cy="40.64" r="23.02"/>
+		<path fill="#C45814" d="M58.82,39.23c0-7.64-6.19-13.84-13.84-13.84s-13.84,6.2-13.84,13.84c0,5.09,2.34,8.81,6.44,11.21L32,59.66
+			c3.69,2.52,8.15,4,12.95,4c5.08,0,9.76-1.67,13.56-4.45l-5.95-8.41C56.33,48.32,58.82,44.07,58.82,39.23z"/>
+	</g>
+		<use xlink:href="#Avatar_1_" width="31.99" height="31.99" x="-16" y="-16" transform="matrix(0.9309 0 0 -0.9309 37.6035 324.8877)" overflow="visible"/>
+	<polygon fill="#D8D5E2" points="67.97,232.5 90.17,188.79 125.18,201.44 163.07,184.41 216.31,194.49 246.52,180.58 277.04,170.56 296.57,210.43 296.57,232.62 	"/>
+	<rect x="23.38" y="145.14" fill="none" stroke="#3D2C70" stroke-miterlimit="10" width="273.18" height="112.71"/>
+	<rect x="58.13" y="324.89" fill="#B1ABC6" width="238.68" height="4.5"/>
+	<rect x="80.73" y="363.76" fill="#3D2C70" width="23.13" height="7.06"/>
+	<rect x="107.79" y="363.76" fill="#3D2C70" width="32.47" height="7.06"/>
+		<use xlink:href="#Avatar_1_" width="31.99" height="31.99" x="-16" y="-16" transform="matrix(0.9309 0 0 -0.9309 60.2109 374.7686)" overflow="visible"/>
+	<rect x="58.13" y="332.77" fill="#B1ABC6" width="238.68" height="4.5"/>
+	<rect x="80.68" y="374.77" fill="#B1ABC6" width="216.13" height="4.5"/>
+	<rect x="80.68" y="382.65" fill="#B1ABC6" width="216.13" height="4.5"/>
+  <path fill="#3D2C70" d="M319,1v398H1V1H319 M320,0H0v400h320V0L320,0z"/>
+</g>
+</svg>

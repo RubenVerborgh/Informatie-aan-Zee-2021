@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="640" height="120">
 <g opacity="0.5">
-    <line fill="none" stroke="#3D2C70" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="5.65" y1="59" x2="634.35" y2="59"/>
-    <polygon fill="#3D2C70" points="17.47,65.36 18.16,63.48 5.85,59 18.16,54.52 17.47,52.64 0,59"/>
-    <polygon fill="#3D2C70" points="622.53,65.36 621.84,63.48 634.15,59 621.84,54.52 622.53,52.64 640,59"/>
+		<line fill="none" stroke="#3D2C70" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" x1="5.65" y1="59" x2="634.35" y2="59"/>
+		<polygon fill="#3D2C70" points="17.47,65.36 18.16,63.48 5.85,59 18.16,54.52 17.47,52.64 0,59"/>
+		<polygon fill="#3D2C70" points="622.53,65.36 621.84,63.48 634.15,59 621.84,54.52 622.53,52.64 640,59"/>
 </g>
 <circle fill="#3D2C70" cx="574.5" cy="59" r="3.5"/>
 <g>
