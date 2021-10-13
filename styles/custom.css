@@ -23,6 +23,7 @@ ul.inline li {
 
 .slide pre code {
   line-height: 1.7;
+  letter-spacing: -.03em;
 }
 
 .title.slide h2 {
